@@ -3,3 +3,4 @@ langchain
 openai
 pypdf
 sentence_transformers
+"langchain[docarray]"
